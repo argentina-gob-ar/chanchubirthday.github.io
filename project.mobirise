@@ -295,7 +295,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/wordswag-1544942083235-1149x2048.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -346,7 +346,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/photo-from-2018-03-07-22-32-59-by.sjames-2000x3000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
